@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloQ.GUi", "HaloQ.GUI\HaloQ.GUI.csproj", "{ECF99559-98CF-469D-84EC-0FA25F0847E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloQ.Common", "HaloQ.Common\HaloQ.Common.csproj", "{197D0177-2EC6-4345-AC7D-B51217BF53F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloQ.CLI", "HaloQ.CLI\HaloQ.CLI.csproj", "{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Standard|Any CPU = Standard|Any CPU
+		Standard|x86 = Standard|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Standard|Any CPU.ActiveCfg = Standard|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Standard|Any CPU.Build.0 = Standard|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Standard|x86.ActiveCfg = Standard|Any CPU
+		{ECF99559-98CF-469D-84EC-0FA25F0847E1}.Standard|x86.Build.0 = Standard|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Standard|Any CPU.ActiveCfg = Standard|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Standard|Any CPU.Build.0 = Standard|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Standard|x86.ActiveCfg = Standard|Any CPU
+		{197D0177-2EC6-4345-AC7D-B51217BF53F6}.Standard|x86.Build.0 = Standard|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Debug|x86.Build.0 = Debug|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Standard|Any CPU.ActiveCfg = Standard|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Standard|Any CPU.Build.0 = Standard|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Standard|x86.ActiveCfg = Standard|Any CPU
+		{421DC9DA-3EB2-4E8B-B5A8-70B662550B79}.Standard|x86.Build.0 = Standard|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
